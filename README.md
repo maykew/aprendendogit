@@ -8,8 +8,9 @@
     git config --list
 
     git init - iniciar um repositorio
-    touch <nome do arquivo> - criar um arquivo (???)
+    touch <nome do arquivo> - criar um arquivo
     git add <nome do arquivo> - armazenando o arquivo em um local para que o git consiga observar quando é realizado o commit
+        git add -A - faz a mesma coisa do anterior mas com todos arquivos 
     git commit -m "mensagem" - levar a alteração ate o repositorio
     git log - vizualizar pontos
     git status - estado do desenvolvimento (local atual, arquivos modificados, arquivos que não estao no ropositorios, etc)
@@ -18,3 +19,5 @@
     git branch <nome branch> - criar uma branch
     git checkout <nome branch> - entrar na branch
     git branch - vizualizar branchs
+
+### 
