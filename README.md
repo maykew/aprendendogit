@@ -29,5 +29,17 @@
     git diff --name-only: mostra o nome dos arquivos modificados
     git checkout HEAD -- <nome do arquivo>: descartar mudanças e manter somente um arquivo (HEAD branch atual // -- informa que tudo que vem depois é nome de arquivo)
     git checkout HEAD -- <nome do arquivo>: volta no estado anterior do arquivo
-    
+
+    ssh-keygen -t rsa -b 4096 -C "email": cria chave
+    git remote add origin <url repositorio>
+    git push -u origin master: (dest orig)
+
+    git revert --no-edit <codigo do commit>: desfaz alterações do commit sem pagar o commit original
+    git push origin <branch>: adiciona branch
+    git push origin :<branch>: remove branch remoto
+    git remote -v: mostra o nome do origin
+    git branch -D <branch>: remove branch local
+    git pull origin <branch>: traz commits do remoto
+
+    git clone <url>:clonar repositorio
 ### 
