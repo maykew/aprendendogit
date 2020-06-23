@@ -1,7 +1,14 @@
-# CURSO GIT
+<h2>
+  <strong>RESUMO BÁSICO DO GIT</strong>
+</h2>
+
+### Shields
+    Link [shields.io](https://shields.io/)
+
+### Emojis
+    Link [emojis](https://gist.github.com/rxaviers/7360908)
 
 ### Comandos
-    
     git config --global user.name "nome"
     git config --global user.email "email"
     git config --global core.editor vscode
@@ -43,3 +50,7 @@
 
     git clone <url>:clonar repositorio
 ### 
+
+<hr>
+
+<h4 align="center"> ♥ by Mayke Willans ♥ </h4>
