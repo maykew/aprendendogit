@@ -3,10 +3,10 @@
 </h2>
 
 ### Shields
-    Link [shields.io](https://shields.io/)
+- Link para os [shields.io](https://shields.io/)
 
 ### Emojis
-    Link [emojis](https://gist.github.com/rxaviers/7360908)
+- Link para os [emojis](https://gist.github.com/rxaviers/7360908)
 
 ### Comandos
     git config --global user.name "nome"
